@@ -1,0 +1,38 @@
+﻿#wrap {
+    width:1200px;
+    margin:0 auto;
+    /*background: #808080;*/
+}
+
+
+#header {
+    width: 80%;
+}
+
+.afterJackMain {
+    display: inline-block;
+    width: 80%;
+    vertical-align: top;
+}
+
+.afterJackDetailTable{
+    font-size: medium;
+    width: 80%;
+}
+
+
+input {
+    width: 40px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+
+
+
+
